@@ -1,16 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{359A8AF3-AD39-4487-B3AC-5130D9A7CA38}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{62091F49-3E02-4AEE-8A55-7FC55C796BAF}"
-	ProjectSection(SolutionItems) = preProject
-		global.json = global.json
-	EndProjectSection
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebChat", "src\WebChat\WebChat.xproj", "{A9D34B4E-D959-4024-B16D-C2025EB63D79}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebChat", "WebChat\WebChat.csproj", "{359A8AF3-AD39-4487-B3AC-5130D9A7CA38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,7 +19,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{A9D34B4E-D959-4024-B16D-C2025EB63D79} = {359A8AF3-AD39-4487-B3AC-5130D9A7CA38}
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {359A8AF3-AD39-4487-B3AC-5130D9A7CA38}
 	EndGlobalSection
 EndGlobal
