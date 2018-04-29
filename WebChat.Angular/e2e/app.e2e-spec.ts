@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('coding-blast App', () => {
+describe('web-chat App', () => {
   let page: AppPage;
 
   beforeEach(() => {
