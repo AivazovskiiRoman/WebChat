@@ -26,4 +26,4 @@ $ dotnet run
 
 ### Preview
 
-![Web chat](http://aivazovskiy.com/images/WebChat.jpg)
+![Web chat](http://ikvic.com/images/WebChat.jpg)
